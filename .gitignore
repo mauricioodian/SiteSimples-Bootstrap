@@ -5,3 +5,7 @@
 
 # Ignora arquivo-exemplo
 #.arquivo-exemplo
+
+# Ignora pasta .github de workflows
+.github
+
