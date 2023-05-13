@@ -1,0 +1,7 @@
+# Informa quais arquivos ou diretórios devem ser ignorados na sincronização com o GitHub
+
+# Ignora pasta exemplo
+#/exemplo
+
+# Ignora arquivo-exemplo
+#.arquivo-exemplo
